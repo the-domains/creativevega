@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: a branding and design agency
-datePublished: '2015-12-04T18:45:06.420Z'
-dateModified: '2015-12-04T18:44:37.789Z'
+datePublished: '2015-12-04T19:11:19.940Z'
+dateModified: '2015-12-04T19:10:59.882Z'
 title: "Hello! We're Creative Vega, a branding and design agency."
 author: []
 authors: []
