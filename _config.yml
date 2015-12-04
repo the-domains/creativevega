@@ -1,7 +1,7 @@
 name: CreativeVega
 favicon: null
-layout_spectrum: 0.8778821402229369
-typography_spectrum: 0.33349187998101115
+layout_spectrum: 0.49831
+typography_spectrum: 0.262
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.940069236792624
-  lightness: 0.872883546166122
-  saturation: 0.380585502833128
-  rhythmicContrast: 0.6679165032692254
+  brandStrength: 0.875
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
