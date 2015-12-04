@@ -1,0 +1,28 @@
+name: CreativeVega
+favicon: null
+layout_spectrum: 0.8778821402229369
+typography_spectrum: 0.33349187998101115
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.940069236792624
+  lightness: 0.872883546166122
+  saturation: 0.380585502833128
+  rhythmicContrast: 0.6679165032692254
+purpose: []
